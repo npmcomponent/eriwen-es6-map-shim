@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [eriwen/es6-map-shim](http://github.com/eriwen/es6-map-shim). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/eriwen-es6-map-shim`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # es6-map-shim - A polyfill for ES6 Maps
 This is a *destructive* shim that implements the ES6 Map specification as closely as possible.
 
